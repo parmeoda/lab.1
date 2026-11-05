@@ -16,9 +16,9 @@ John: 85
 Sara: 92
 Mark: 78
 ```
-```
-## If the file cannot be found, the program will display:
 
+## If the file cannot be found, the program will display:
+```
 File not found!
 ```
 
